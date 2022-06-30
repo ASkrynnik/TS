@@ -1,0 +1,1 @@
+## uddateObjectArray already linked to page and its result is in console
